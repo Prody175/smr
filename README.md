@@ -1,2 +1,2 @@
 # smr
-el meu orimer repositori de prova 
+el meu primer repositori de prova 
